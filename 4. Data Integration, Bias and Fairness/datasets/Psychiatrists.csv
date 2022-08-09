@@ -1,0 +1,101 @@
+﻿"VAR","Variable","UNIT","Measure","COU","Country","YEA","Year","Value","Flag Codes","Flags"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","AUS","Australia","2014","2014",0.16,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","AUS","Australia","2015","2015",0.16,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","AUS","Australia","2016","2016",0.17,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","AUT","Austria","2014","2014",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","AUT","Austria","2015","2015",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","AUT","Austria","2016","2016",0.19,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","BEL","Belgium","2014","2014",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","BEL","Belgium","2015","2015",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","BEL","Belgium","2016","2016",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CAN","Canada","2014","2014",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CAN","Canada","2015","2015",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CAN","Canada","2016","2016",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","DNK","Denmark","2014","2014",0.19,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","DNK","Denmark","2015","2015",0.19,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","DNK","Denmark","2016","2016",0.19,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","FIN","Finland","2014","2014",0.27,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","FIN","Finland","2015","2015",0.24,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","FRA","France","2014","2014",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","FRA","France","2015","2015",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","FRA","France","2016","2016",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","DEU","Germany","2014","2014",0.27,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","DEU","Germany","2015","2015",0.27,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","DEU","Germany","2016","2016",0.27,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","GRC","Greece","2014","2014",0.21,"B","Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","GRC","Greece","2015","2015",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","GRC","Greece","2016","2016",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ISL","Iceland","2014","2014",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ISL","Iceland","2015","2015",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ISL","Iceland","2016","2016",0.26,"B","Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","IRL","Ireland","2014","2014",0.16,"B","Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","IRL","Ireland","2015","2015",0.16,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","IRL","Ireland","2016","2016",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ITA","Italy","2014","2014",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ITA","Italy","2015","2015",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ITA","Italy","2016","2016",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","JPN","Japan","2014","2014",0.12,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","JPN","Japan","2016","2016",0.12,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","KOR","Korea","2014","2014",0.07,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","KOR","Korea","2015","2015",0.07,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","KOR","Korea","2016","2016",0.07,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LUX","Luxembourg","2014","2014",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LUX","Luxembourg","2015","2015",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LUX","Luxembourg","2016","2016",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","MEX","Mexico","2014","2014",0.01,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","MEX","Mexico","2015","2015",0.01,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","MEX","Mexico","2016","2016",0.01,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NLD","Netherlands","2014","2014",0.23,"B","Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NLD","Netherlands","2015","2015",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NLD","Netherlands","2016","2016",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NZL","New Zealand","2014","2014",0.16,"E; B","Estimated value; Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NZL","New Zealand","2015","2015",0.18,"E; B","Estimated value; Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NZL","New Zealand","2016","2016",0.18,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NOR","Norway","2014","2014",0.24,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NOR","Norway","2015","2015",0.25,"B","Break"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","NOR","Norway","2016","2016",0.25,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","POL","Poland","2014","2014",0.09,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","POL","Poland","2015","2015",0.09,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","POL","Poland","2016","2016",0.09,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","PRT","Portugal","2014","2014",0.12,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","PRT","Portugal","2015","2015",0.12,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","PRT","Portugal","2016","2016",0.12,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ESP","Spain","2014","2014",0.11,"D","Difference in methodology"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ESP","Spain","2015","2015",0.11,"D","Difference in methodology"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ESP","Spain","2016","2016",0.1,"D","Difference in methodology"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","SWE","Sweden","2014","2014",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","SWE","Sweden","2015","2015",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","SWE","Sweden","2016","2016",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CHE","Switzerland","2014","2014",0.5,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CHE","Switzerland","2015","2015",0.5,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CHE","Switzerland","2016","2016",0.51,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","TUR","Turkey","2014","2014",0.04,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","TUR","Turkey","2015","2015",0.04,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","TUR","Turkey","2016","2016",0.05,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","GBR","United Kingdom","2014","2014",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","GBR","United Kingdom","2015","2015",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","GBR","United Kingdom","2016","2016",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","USA","United States","2014","2014",0.14,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","USA","United States","2015","2015",0.14,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","USA","United States","2016","2016",0.14,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CHL","Chile","2014","2014",0.07,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CHL","Chile","2015","2015",0.08,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","CHL","Chile","2016","2016",0.09,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","EST","Estonia","2014","2014",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","EST","Estonia","2015","2015",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","EST","Estonia","2016","2016",0.18,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ISR","Israel","2014","2014",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ISR","Israel","2015","2015",0.17,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","ISR","Israel","2016","2016",0.16,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","SVN","Slovenia","2014","2014",0.12,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","SVN","Slovenia","2015","2015",0.13,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","SVN","Slovenia","2016","2016",0.13,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LVA","Latvia","2014","2014",0.16,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LVA","Latvia","2015","2015",0.16,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LVA","Latvia","2016","2016",0.16,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LTU","Lithuania","2014","2014",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LTU","Lithuania","2015","2015",0.22,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","LTU","Lithuania","2016","2016",0.23,,
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","COL","Colombia","2014","2014",0.02,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","COL","Colombia","2015","2015",0.02,"E","Estimated value"
+"EMPLPSYS","Psychiatrists","DENSPPNB","Density per 1 000 population (head counts)","COL","Colombia","2016","2016",0.02,"E","Estimated value"
